@@ -28,6 +28,7 @@ pip install -r requirements.txt
 export TELEGRAM_BOT_TOKEN=ffffffffffffffffffffff
 export TO_WEBHOOK_URL=bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 export POLL_INTERVAL_IN_SECS=1
+export DATA_FOLDER=./tmp
 ```
 python main.py
 ```
